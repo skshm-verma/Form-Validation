@@ -16,12 +16,16 @@ This project showcases a user-friendly and responsive form validation page built
 - HTML (Structure and User Interface)
 - CSS (Styling and Visual Design)
 
+## Visual
+
+![screencapture-form-validation-one-tau-vercel-app-2024-03-23-19_05_32](https://github.com/skshm-verma/Form-Validation/assets/106864834/bbbfc7ea-3c7b-4b26-aac1-eec04f51f986)
+
 ## Getting Started:
 
-- Clone the Repository: Use git clone https://github.com/your-username/responsive-form-validation.git to download the project files.
-- Open in a Browser: Navigate to the project directory using your terminal and open index.html in your web browser.
+- Clone the Repository: Use git clone https://github.com/skshm-verma/Form-Validation.git to download the project files.
+- Open in a Browser: Use this link: https://form-validation-one-tau.vercel.app/.
 - Test the Form: Enter information in the form fields and observe the real-time validation feedback.
 
 ***Note:*** Although this project focuses on the form validation logic & UI, it doesn't include actual signUp functionality.
 ## Author:
-Saksham Verma or Username: [invalid URL removed]
+Saksham Verma or https://github.com/skshm-verma
